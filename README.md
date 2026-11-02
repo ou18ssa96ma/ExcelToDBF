@@ -1,4 +1,4 @@
-# Excel → DBF Converter (v3)
+# Excel → DBF Converter
 
 A focused, clean desktop tool to convert multi-sheet Excel files into individual dBase (`.dbf`) files. **Desktop GUI only** — no CLI mode, no sidecar files.
 
