@@ -719,6 +719,7 @@ def _create_icon() -> QIcon:
 
 def run_gui(initial_file: str | None = None, initial_output: str | None = None) -> int:
     app = QApplication.instance() or QApplication([])
+    app.setStyle("Fusion")
     app.setApplicationName(APP_TITLE)
     app.setOrganizationName(ORG_NAME)
     app.setWindowIcon(_create_icon())

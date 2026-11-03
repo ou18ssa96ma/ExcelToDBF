@@ -1,7 +1,3 @@
-"""Core Excel to DBF conversion engine for v2.
-
-Independent of PyQt so it can be used programmatically or via CLI.
-"""
 
 from __future__ import annotations
 
