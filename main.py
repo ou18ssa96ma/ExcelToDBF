@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import sys
 
-VERSION = "3.0.0"
+VERSION = "1.0.0"
 
 
 def main() -> int:
